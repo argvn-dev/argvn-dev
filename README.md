@@ -38,53 +38,53 @@ Berikut beberapa proyek saya:
   ***Tahun***: 2020
 
 - **[Landing Page Haadir.in](https://haadir.in)**  
-  ***Deskripsi***: Landing page untuk Aplikasi Kehadiran 
-  ***Teknologi***: HTML, CSS, Bootstrap, JQuery
+  ***Deskripsi***: Landing page untuk Aplikasi Kehadiran  
+  ***Teknologi***: HTML, CSS, Bootstrap, JQuery  
   ***Tahun***: 2020
 
 - **[Landing Page Aplikasi Petshop](https://accessmedia.co.id/aplikasi-petshop)**  
-  ***Deskripsi***: Landing page untuk Aplikasi Petshop 
-  ***Teknologi***: HTML, CSS, Bootstrap, JQuery, SEO
+  ***Deskripsi***: Landing page untuk Aplikasi Petshop  
+  ***Teknologi***: HTML, CSS, Bootstrap, JQuery, SEO  
   ***Tahun***: 2020
 
 - **[PPDB Online MTs Muawanah](https://mtsmuawanah.sch.id/ppdb)**  
-  ***Deskripsi***: Aplikasi PPDB Online MTs Muawanah
-  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, Materialize CSS
+  ***Deskripsi***: Aplikasi PPDB Online MTs Muawanah  
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, Materialize CSS  
   ***Tahun***: 2020
 
 - **[Aplikasi Qiroati](https://alhasancms.id/qiroati-app)**  
-  ***Deskripsi***: Aplikasi pencatatan pembelajaran Qiroati di Pesantren Al Hasan Ciamis
-  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA
+  ***Deskripsi***: Aplikasi pencatatan pembelajaran Qiroati di Pesantren Al Hasan Ciamis  
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2020
 
 - **[Aplikasi Keuangan Ponpes Al Hasan](https://alhasancms.id)**  
-  ***Deskripsi***: Aplikasi yang digunakan untuk wali santri agar bisa mengetahui keuangan anaknya, diintegrasikan dengan aplikasi Ms Access
-  ***Teknologi***: Laravel, Livewire, Bootstrap, JQuery, MySQL, PWA
+  ***Deskripsi***: Aplikasi yang digunakan untuk wali santri agar bisa mengetahui keuangan anaknya, diintegrasikan dengan aplikasi Ms Access  
+  ***Teknologi***: Laravel, Livewire, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2021
 
 - **[Aplikasi Keuangan Yayasan Baitus Solihin Depok](#)**  
-  ***Deskripsi***: Aplikasi pencatatan dan pengelolaan keuangan yayasan
-  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA
+  ***Deskripsi***: Aplikasi pencatatan dan pengelolaan keuangan yayasan  
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2021
 
 - **[Aplikasi Keuangan MTs Muawanah](https://keuangan.mtsmuawanah.sch.id)**  
-  ***Deskripsi***: Aplikasi pencatatan dan pengelolaan keuangan MTs Muawanah
-  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA
+  ***Deskripsi***: Aplikasi pencatatan dan pengelolaan keuangan MTs Muawanah  
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2021
 
 - **[Aplikasi Asrama Putri Al Muhajirin](https://aspi.bmtalmuhajirin.id)**  
-  ***Deskripsi***: Aplikasi pengelolaan asrama putri di Al Muhajirin
-  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA
+  ***Deskripsi***: Aplikasi pengelolaan asrama putri di Al Muhajirin  
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2022
 
 - **[Aplikasi Keuangan BMT Al Muhajirin](https://aspi.bmtalmuhajirin.id)**  
-  ***Deskripsi***: Aplikasi yang digunakan untuk wali santri agar bisa mengetahui keuangan anaknya, diintegrasikan dengan aplikasi Ms Access
-  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA
+  ***Deskripsi***: Aplikasi yang digunakan untuk wali santri agar bisa mengetahui keuangan anaknya, diintegrasikan dengan aplikasi Ms Access  
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2022
 
 - **[Web Sekolah Plus](https://datasekolah.id)**  
-  ***Deskripsi***: Web Sekolah Plus adalah sebuah layanan yang menyediakan website yang dilengkapi aplikasi pengelolaan untuk sekolah dengan fitur unggulan: Website Sekolah, Aplikasi Mobile, Dashboard Informasi, Manajemen Data Siswa, Aplikasi Absensi Siswa, Manajemen Arsip, Akademik, Inventaris
-  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA
+  ***Deskripsi***: Web Sekolah Plus adalah sebuah layanan yang menyediakan website yang dilengkapi aplikasi pengelolaan untuk sekolah dengan fitur unggulan: Website Sekolah, Aplikasi Mobile, Dashboard Informasi, Manajemen Data Siswa, Aplikasi Absensi Siswa, Manajemen Arsip, Akademik, Inventaris  
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2023
 
 ---
