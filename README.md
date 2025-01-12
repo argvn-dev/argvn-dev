@@ -98,7 +98,7 @@ Berikut beberapa proyek saya:
   ***Tahun***: 2023
 
 - **[Aplikasi Mobile Klinik PetHut Group](https://pethut.id)**  
-  ***Deskripsi***: Aplikasi pencatatan transaksi klinik hewan
+  ***Deskripsi***: Aplikasi pencatatan transaksi klinik hewan  
   ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2023
 
@@ -108,7 +108,7 @@ Berikut beberapa proyek saya:
   ***Tahun***: 2023
 
 - **[Aplikasi Mobile Klinik Amazon Pet Indo](https://klinik.amazonpet.id)**  
-  ***Deskripsi***: Aplikasi pencatatan transaksi klinik hewan
+  ***Deskripsi***: Aplikasi pencatatan transaksi klinik hewan  
   ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2023
 
@@ -117,6 +117,40 @@ Berikut beberapa proyek saya:
   ***Teknologi***: Laravel, HTML, CSS, Bootstrap, Javascript, MySQL  
   ***Tahun***: 2023
 
+- **[Aplikasi Input Penjualan Online](#)**  
+  ***Deskripsi***: Aplikasi pencatatan transaksi penjualan online Cordova, diintegrasikan dengan Ms Access  
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
+  ***Tahun***: 2023
+
+- **[Website Indo Petshop](https://indopetshop.id)**  
+  ***Deskripsi***: Website Indo Petshop, sebuah perusahaan yang bergerak di bidang petshop  
+  ***Teknologi***: Laravel, HTML, CSS, Bootstrap, Javascript, MySQL  
+  ***Tahun***: 2023
+
+- **[WhatsApp Gateway API](https://wa.accessmedia.id)**  
+  ***Deskripsi***: WhatsApp Gateway API adalah sebuah aplikasi yang digunakan untuk mengirim pesan whatsapp menggunakan API  
+  ***Teknologi***: Laravel, Bootstrap, Javascript, JQuery, MySQL, PWA, Queue processing  
+  ***Tahun***: 2024
+
+- **[Integrasi H2H Portal Ceisa 4.0](#)**  
+  ***Deskripsi***: Pengembang API Host to Host Portal Ceisa 4.0 di perusahaan AddOn
+  ***Teknologi***: Laravel, Bootstrap, Javascript, JQuery, MySQL, PWA  
+  ***Tahun***: 2024
+
+- **[Web Company Profile Glosin Group](https://glosin-group.com)**  
+  ***Deskripsi***: Website Glosin Group, sebuah perusahaan yang bergerak di bidang distribusi, industri mesin, dan tambang  
+  ***Teknologi***: Laravel, HTML, CSS, Bootstrap, Javascript, MySQL  
+  ***Tahun***: 2025
+
+**[Web Company Profile Juanda Petshop](https://juandapetshop.com)**  
+  ***Deskripsi***: Website Juanda Petshop, sebuah perusahaan yang bergerak di bidang petshop  
+  ***Teknologi***: Laravel, HTML, CSS, Bootstrap, Javascript, MySQL  
+  ***Tahun***: 2025
+
+**[Club DB Taekwondo](https://club.dbtaekwondo.id)**  
+  ***Deskripsi***: Aplikasi pengelolaan klub di organisasi Taekwondo  
+  ***Teknologi***: Laravel, API, Vue.js, IndexedDB, MySQL, SPA, PWA  
+  ***Tahun***: 2025
 ---
 
 ## 🌍 Hubungi Saya
