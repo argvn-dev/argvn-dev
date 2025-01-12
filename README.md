@@ -77,7 +77,7 @@ Berikut beberapa proyek saya:
   ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2022
 
-- **[Aplikasi Keuangan BMT Al Muhajirin](https://aspi.bmtalmuhajirin.id)**  
+- **[Aplikasi Keuangan BMT Al Muhajirin](https://bmtalmuhajirin.id)**  
   ***Deskripsi***: Aplikasi yang digunakan untuk wali santri agar bisa mengetahui keuangan anaknya, diintegrasikan dengan aplikasi Ms Access  
   ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
   ***Tahun***: 2022
@@ -85,6 +85,36 @@ Berikut beberapa proyek saya:
 - **[Web Sekolah Plus](https://datasekolah.id)**  
   ***Deskripsi***: Web Sekolah Plus adalah sebuah layanan yang menyediakan website yang dilengkapi aplikasi pengelolaan untuk sekolah dengan fitur unggulan: Website Sekolah, Aplikasi Mobile, Dashboard Informasi, Manajemen Data Siswa, Aplikasi Absensi Siswa, Manajemen Arsip, Akademik, Inventaris  
   ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
+  ***Tahun***: 2023
+
+- **[Landing Page Naqila's Skincare](https://naqilas.com)**  
+  ***Deskripsi***: Landing page brand skincare Naqila's  
+  ***Teknologi***: HTML, CSS, Bootstrap, Javascript  
+  ***Tahun***: 2023
+
+- **[Web Company Profile PetHut Group](https://pethut.id)**  
+  ***Deskripsi***: Website PetHut Group, sebuah perusahaan yang bergerak di bidang petshop  
+  ***Teknologi***: HTML, CSS, Bootstrap, Javascript  
+  ***Tahun***: 2023
+
+- **[Aplikasi Mobile Klinik PetHut Group](https://pethut.id)**  
+  ***Deskripsi***: Aplikasi pencatatan transaksi klinik hewan
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
+  ***Tahun***: 2023
+
+- **[Web Company Profile Amazon Pet Indo](https://amazonpet.id)**  
+  ***Deskripsi***: Website Amazon Pet Indo, sebuah perusahaan yang bergerak di bidang petshop  
+  ***Teknologi***: HTML, CSS, Bootstrap, Javascript  
+  ***Tahun***: 2023
+
+- **[Aplikasi Mobile Klinik Amazon Pet Indo](https://klinik.amazonpet.id)**  
+  ***Deskripsi***: Aplikasi pencatatan transaksi klinik hewan
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
+  ***Tahun***: 2023
+
+- **[Website RS Cargo Logistic](https://rscargologistic.com)**  
+  ***Deskripsi***: Website RS Cargo Logistic, sebuah perusahaan yang bergerak di bidang pengiriman cargo udara  
+  ***Teknologi***: Laravel, HTML, CSS, Bootstrap, Javascript, MySQL  
   ***Tahun***: 2023
 
 ---
