@@ -129,7 +129,7 @@ Berikut beberapa proyek saya:
 
 - **[WhatsApp Gateway API](https://wa.accessmedia.id)**  
   ***Deskripsi***: WhatsApp Gateway API adalah sebuah aplikasi yang digunakan untuk mengirim pesan whatsapp menggunakan API  
-  ***Teknologi***: Laravel, Bootstrap, Javascript, JQuery, MySQL, PWA, Queue processing  
+  ***Teknologi***: Laravel, Node JS, Bootstrap, Javascript, JQuery, MySQL, PWA, Queue processing  
   ***Tahun***: 2024
 
 - **[Integrasi H2H Portal Ceisa 4.0](#)**  
