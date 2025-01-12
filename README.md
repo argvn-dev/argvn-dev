@@ -142,12 +142,12 @@ Berikut beberapa proyek saya:
   ***Teknologi***: Laravel, HTML, CSS, Bootstrap, Javascript, MySQL  
   ***Tahun***: 2025
 
-**[Web Company Profile Juanda Petshop](https://juandapetshop.com)**  
+- **[Web Company Profile Juanda Petshop](https://juandapetshop.com)**  
   ***Deskripsi***: Website Juanda Petshop, sebuah perusahaan yang bergerak di bidang petshop  
   ***Teknologi***: Laravel, HTML, CSS, Bootstrap, Javascript, MySQL  
   ***Tahun***: 2025
 
-**[Club DB Taekwondo](https://club.dbtaekwondo.id)**  
+- **[Club DB Taekwondo](https://club.dbtaekwondo.id)**  
   ***Deskripsi***: Aplikasi pengelolaan klub di organisasi Taekwondo  
   ***Teknologi***: Laravel, API, Vue.js, IndexedDB, MySQL, SPA, PWA  
   ***Tahun***: 2025
