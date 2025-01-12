@@ -1,28 +1,46 @@
-# 👋 Hi there, I'm Argvn!
+# 👋 Hai, Saya Argvn!
 
-## 👨‍💻 About Me
-I am a **Senior Web Developer** with over 5 years of experience at [**Access Media**](https://accessmedia.co.id), based in **Tasikmalaya City**. I specialize in creating scalable web applications, implementing clean code practices, and exploring cutting-edge technologies.
+## 👨‍💻 Tentang Saya
+Saya adalah seorang **Senior Web Developer** dengan pengalaman lebih dari 5 tahun di [**Access Media**](https://accessmedia.co.id), yang berbasis di **Kota Tasikmalaya**. Saya berfokus pada pengembangan aplikasi web yang skalabel, penerapan praktik kode yang bersih, dan eksplorasi teknologi terbaru.
 
-- 🔭 Currently working on: [Haadir.in](https://haadir.in), [Web Sekolah Plus](https://datasekolah.id), [DB Taekwondo](https://dbtaekwondo.id)
-- 🌱 Currently learning: Vue.js, AI
-- ⚡ Fun fact: I can code faster with AI
-
----
-
-## 🛠️ Skills & Technologies
-- **Frontend**: HTML, CSS, JavaScript, Vue.js
-- **Backend**: Laravel, PHP, Node.js, Bun
-- **Database**: MySQL, SQL Server, SQLite
-- **Tools**: VSCode, Git, Webpack, CyberPanel
-- **Others**: PWA, REST API, Queue processing
+- 🔭 Saat ini sedang mengerjakan: [Haadir.in](https://haadir.in), [Web Sekolah Plus](https://datasekolah.id), [DB Taekwondo](https://dbtaekwondo.id)  
+- 🌱 Sedang belajar: Vue.js, AI  
+- ⚡ Fakta menarik: Saya bisa ngoding lebih cepat dengan bantuan AI  
 
 ---
 
-## 🌍 Connect with Me
-- 🌐 Website: [argvn.com](https://argvn.com)
-- 📧 Email: [me@argvn.com](mailto:me@argvn.com)
-- 💼 LinkedIn: [argvn](https://linkedin.com/in/argvn)
+## 🛠️ Keterampilan & Teknologi
+- **Frontend**: HTML, CSS, JavaScript, JQuery, Vue.js  
+- **Backend**: Laravel, PHP, Node.js, Bun  
+- **Database**: MySQL, SQL Server, SQLite  
+- **Tools**: VSCode, Git, Webpack, CyberPanel  
+- **Lainnya**: PWA, REST API, Pemrosesan Antrian (Queue processing)  
 
 ---
 
-> “Keep nature and wild.” 🌿
+## 💼 Portofolio
+
+Berikut beberapa proyek saya:
+
+- **[Web Company Profile Access Media](https://accessmedia.co.id)**  
+  ***Deskripsi***: Website Access Media, sebuah perusahaan yang bergerak di bidang IT  
+  ***Teknologi***: Laravel, Bootstrap, MySQL
+
+- **[DB Taekwondo](https://dbtaekwondo.id)**  
+  ***Deskripsi***: Aplikasi yang digunakan untuk mengelola database Taekwondo, seperti: Manajemen Anggota, Ujian Kenaikan Tingkat, Laporan Keuangan   
+  ***Teknologi***: Laravel, Bootstrap, JQuery, MySQL, PWA  
+
+- **[Haadir.in](https://haadir.in)**  
+  ***Deskripsi***: Aplikasi yang digunakan untuk mengelola kehadiran karyawan, dengan fitur unggulan: Ambil Foto Kehadiran, Geo Lokasi, Penjadwalan, Multi Shift Kerja, Delegasi Hak Akses, Rekap Kehadiran, Hitung Gaji Otomatis   
+  ***Teknologi***: Laravel, Bootstrap, PWA, JQuery, MySQL, Queue processing  
+
+---
+
+## 🌍 Hubungi Saya
+- 🌐 Website: [argvn.com](https://argvn.com)  
+- 📧 Email: [me@argvn.com](mailto:me@argvn.com)  
+- 💼 LinkedIn: [argvn](https://linkedin.com/in/argvn)  
+
+---
+
+> “Jaga alam dan kehidupan liar.” 🌿
