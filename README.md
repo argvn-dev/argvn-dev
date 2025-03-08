@@ -24,7 +24,7 @@ Berikut beberapa proyek saya:
 
 - **[Web Company Profile Access Media](https://accessmedia.co.id)**  
   ***Deskripsi***: Website Access Media, sebuah perusahaan yang bergerak di bidang IT  
-  ***Teknologi***: Laravel, Bootstrap, MySQL
+  ***Teknologi***: Laravel, Bootstrap, MySQL  
   ***Tahun***: 2019
 
 - **[DB Taekwondo](https://dbtaekwondo.id)**  
@@ -133,7 +133,7 @@ Berikut beberapa proyek saya:
   ***Tahun***: 2024
 
 - **[Integrasi H2H Portal Ceisa 4.0](#)**  
-  ***Deskripsi***: Pengembang API Host to Host Portal Ceisa 4.0 di perusahaan AddOn
+  ***Deskripsi***: Pengembang API Host to Host Portal Ceisa 4.0 di perusahaan AddOn  
   ***Teknologi***: Laravel, Bootstrap, Javascript, JQuery, MySQL, PWA  
   ***Tahun***: 2024
 
@@ -150,6 +150,11 @@ Berikut beberapa proyek saya:
 - **[Club DB Taekwondo](https://club.dbtaekwondo.id)**  
   ***Deskripsi***: Aplikasi pengelolaan klub di organisasi Taekwondo  
   ***Teknologi***: Laravel, API, Vue.js, IndexedDB, MySQL, SPA, PWA  
+  ***Tahun***: 2025
+
+- **[Web Nonstop Advertising](https://nonstopadv.com)**  
+  ***Deskripsi***: Website Nonstop Advertising, sebuah perusahaan yang menyediakan jasa pembuatan Neon Box, Billboard, Facade, dan media pemasaran lainnya.  
+  ***Teknologi***: Laravel, HTML, CSS, Bootstrap, Javascript, SQLite, Integrasi Cek Ongkir  
   ***Tahun***: 2025
 ---
 
