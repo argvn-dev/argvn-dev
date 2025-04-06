@@ -164,5 +164,3 @@ Berikut beberapa proyek saya:
 - 💼 LinkedIn: [argvn](https://linkedin.com/in/argvn)  
 
 ---
-
-> “Jaga alam dan kehidupan liar.” 🌿
