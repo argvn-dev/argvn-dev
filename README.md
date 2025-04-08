@@ -162,5 +162,3 @@ Berikut beberapa proyek saya:
 - 🌐 Website: [argvn.com](https://argvn.com)  
 - 📧 Email: [me@argvn.com](mailto:me@argvn.com)  
 - 💼 LinkedIn: [argvn](https://linkedin.com/in/argvn)  
-
----
