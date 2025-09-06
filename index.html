@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>ARGVN</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0f0f0f 100%);
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        /* Animated background elements */
+        .bg-elements {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            opacity: 0.1;
+        }
+
+        .bg-elements::before {
+            content: '';
+            position: absolute;
+            top: 20%;
+            left: 10%;
+            width: 300px;
+            height: 300px;
+            background: radial-gradient(circle, rgba(147, 51, 234, 0.3) 0%, transparent 70%);
+            border-radius: 50%;
+            animation: float 6s ease-in-out infinite;
+        }
+
+        .bg-elements::after {
+            content: '';
+            position: absolute;
+            bottom: 20%;
+            right: 15%;
+            width: 400px;
+            height: 400px;
+            background: radial-gradient(circle, rgba(59, 130, 246, 0.3) 0%, transparent 70%);
+            border-radius: 50%;
+            animation: float 8s ease-in-out infinite reverse;
+        }
+
+        .container {
+            text-align: center;
+            z-index: 10;
+            position: relative;
+        }
+
+        .main-text {
+            font-size: clamp(3rem, 12vw, 8rem);
+            font-weight: 800;
+            letter-spacing: -0.02em;
+            background: linear-gradient(135deg, #ffffff 0%, #e5e5e5 50%, #ffffff 100%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 40px rgba(255, 255, 255, 0.1);
+            animation: glow 3s ease-in-out infinite alternate;
+            position: relative;
+        }
+
+        .main-text::before {
+            content: 'ARGVN';
+            position: absolute;
+            top: 0;
+            left: 0;
+            background: linear-gradient(135deg, #9333ea 0%, #3b82f6 50%, #06b6d4 100%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            opacity: 0;
+            animation: colorShift 4s ease-in-out infinite;
+        }
+
+        .subtitle {
+            margin-top: 1.5rem;
+            font-size: clamp(0.8rem, 2vw, 1.2rem);
+            font-weight: 300;
+            color: #a1a1aa;
+            letter-spacing: 0.1em;
+            opacity: 0;
+            animation: fadeInUp 1s ease-out 0.5s forwards;
+        }
+
+        .accent-line {
+            width: 100px;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #9333ea, #3b82f6, transparent);
+            margin: 2rem auto;
+            opacity: 0;
+            animation: fadeInUp 1s ease-out 1s forwards;
+        }
+
+        /* Animations */
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0px) rotate(0deg);
+            }
+            50% {
+                transform: translateY(-20px) rotate(180deg);
+            }
+        }
+
+        @keyframes glow {
+            0% {
+                text-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+            }
+            100% {
+                text-shadow: 0 0 40px rgba(255, 255, 255, 0.2), 0 0 60px rgba(147, 51, 234, 0.1);
+            }
+        }
+
+        @keyframes colorShift {
+            0%, 100% {
+                opacity: 0;
+            }
+            50% {
+                opacity: 0.3;
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .main-text {
+                font-size: clamp(2.5rem, 15vw, 6rem);
+            }
+            
+            .subtitle {
+                font-size: clamp(0.7rem, 3vw, 1rem);
+                margin-top: 1rem;
+            }
+            
+            .accent-line {
+                width: 80px;
+                margin: 1.5rem auto;
+            }
+        }
+
+        /* High contrast mode support */
+        @media (prefers-contrast: high) {
+            .main-text {
+                background: #ffffff;
+                background-clip: text;
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+            
+            .subtitle {
+                color: #ffffff;
+            }
+        }
+
+        /* Reduced motion support */
+        @media (prefers-reduced-motion: reduce) {
+            .main-text,
+            .bg-elements::before,
+            .bg-elements::after {
+                animation: none;
+            }
+            
+            .subtitle,
+            .accent-line {
+                opacity: 1;
+                transform: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-elements"></div>
+    
+    <div class="container">
+        <h1 class="main-text">ARGVN</h1>
+        <div class="accent-line"></div>
+        <a href="https://github.com/argvn-dev" target="_blank" class="subtitle" style="text-decoration: none; color: #a1a1a1; transition: all 0.3s ease;">github.com/argvn-dev</a>
+    </div>
+</body>
+</html>
